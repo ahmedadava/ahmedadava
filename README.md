@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm [Ahmed Adava]
 
-<!--
-**ahmedadava/ahmedadava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** with over **5 years of experience** in **agri-tech**, passionate about turning complex data into meaningful insights.
 
-Here are some ideas to get you started:
+## 🌱 Expertise
+- 💡 Translating data into actionable strategies for business growth
+- 📊 Visual storytelling with **Power BI**, **Excel**, and **Python**
+- 🛠️ Data querying and transformation using **SQL**
+- 🔍 Pattern recognition, trend analysis, and forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+- Microsoft Excel (Advanced)
+- SQL (Data extraction & analysis)
+- Power BI (Interactive dashboards)
+- Python (Pandas, Matplotlib, Seaborn, etc.)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedadava&show_icons=true&theme=default)
+
+## 🗣️ Communication
+I bridge the gap between data and decision-making by presenting technical findings in a clear, compelling way to stakeholders.
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ahmed-adava)
+- [Email](mailto:ahmadadava@gmail.com)
